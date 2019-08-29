@@ -9,4 +9,10 @@
 &emsp;&emsp;2.误识别率高    
 - *改进措施*   
 &emsp;&emsp;通过深度学习的方法改进
+*2019.8.29更新*     
+&emsp;&emsp;项目增加了
+- 通过python做OCR字体识别。
+- 通过face_recognition做图片的人脸检测
+- 通过face-rcognition做视频的人脸检测
+- 通过face-recognition做视频的人脸识别
 
